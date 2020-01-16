@@ -1,0 +1,6 @@
+thingdef operation(op,a,b):
+	return "error"
+
+
+def operation(op,a,b):
+	return "error"

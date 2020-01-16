@@ -1,0 +1,4 @@
+  File "test2.py", line 1
+    a sl;fjkdslafj
+       ^
+SyntaxError: invalid syntax
